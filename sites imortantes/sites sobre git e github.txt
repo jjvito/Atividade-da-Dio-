@@ -1,0 +1,6 @@
+https://git-scm.com/downloads
+site git:
+introdução,Noções basicas e muito mais
+https://git-scm.com/book/en/v2
+site do github
+https://github.com/github
